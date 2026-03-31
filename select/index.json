@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "False Pretense (Alliance Edition)",
+  "base_artist": "The Red Jumpsuit Apparatus",
+  "createdAt": "2026-03-31T05:03:27.028072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "False Pretense (Alliance Edition)",
+      "artist": "The Red Jumpsuit Apparatus",
+      "has_synced": true,
+      "path": "select/01_False_Pretense_(Alliance_Edition)_The_Red_Jumpsuit_Apparatus.lrc"
+    }
+  ]
+}
